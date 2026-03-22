@@ -1,4 +1,4 @@
-# Pracuj.pl Jobs Feed: Poland Job Listings with Salary & Filters
+# Pracuj.pl Jobs Feed
 
 Extract structured data from [pracuj.pl](https://pracuj.pl) — structured job listings from pracuj.pl — Poland's #1 job board. Structured salary parsing, incremental mode, 30+ output fields.
 
